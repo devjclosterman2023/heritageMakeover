@@ -1,0 +1,8 @@
+.site-info {
+    text-align: center;
+    height: 100px;
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
